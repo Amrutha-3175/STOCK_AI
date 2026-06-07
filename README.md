@@ -66,6 +66,13 @@ python -m streamlit run app.py
 * News sentiment analysis
 * Advanced forecasting models
 
+## Live Demo
+
+AI Stock Predictor is live here:
+
+https://stockai-nib5itthgq5umsjk8knt2h.streamlit.app
+
+
 ## Author
 
 Amrutha V
